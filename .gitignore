@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Gmail credentials (DO NOT UPLOAD)
+credentials.json
+
+# Logs
+logs/
+*.csv
+
+# IDE/project files
+*.idea/
+*.vscode/
