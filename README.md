@@ -1,14 +1,3 @@
-Perfect 👌 — I’ll draft a **detailed, recruiter-friendly README.md** that:
-
-* Explains the project in **simple language** (so even non-tech people can get it).
-* Highlights **business value** (time saved, consistency, automation).
-* Documents **technical setup** (so anyone can reproduce it).
-* Includes your note about Hugging Face vs OpenAI.
-
-Here’s the full draft:
-
----
-
 # 📩 AI Email Classifier & Auto-Responder
 
 An **automation project** that reads unread emails from Gmail, classifies them into categories (Billing Issue, Technical Support, or General Query), and automatically replies with a **professional, pre-defined response** — all while keeping a log for reporting.
